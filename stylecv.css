@@ -1,0 +1,51 @@
+#resumetext {
+   color: gray;
+   
+}
+
+#line {
+height: 10px;background-color:#005889;opacity 100%;
+}
+
+
+
+.blue {
+   color:#005889;font-family: 'Gilroy'
+ 
+}
+
+#emailID {
+   font-weight: bold;
+}
+
+
+.dot {
+    height: 8px;
+    width: 8px;
+    background-color:black;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+ .tableHeader {
+    font-weight: bold;
+ }
+
+ .dotblue {
+    height: 8px;
+    width: 8px;
+    background-color:#005889 ;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
+  .nodotlist {
+    list-style-type: none;
+  }
+
+ .all {
+    font-family: 'Gilroy'
+ }
+
+ 
